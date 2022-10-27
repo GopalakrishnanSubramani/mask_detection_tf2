@@ -1,4 +1,4 @@
-# Authenticate Bank Notes Using Machine Learning 💵💳
+# Mask detection using Deep Learning 💵💳
 
 <p align="center">
   <img width="800" height="800" src="imgs/mask.png">
